@@ -79,7 +79,7 @@ A real-time, voice-enabled AI chatbot that allows users to interact with a conve
 
 ### 2. **Context-Aware Responses:**
    - Implements LangChain’s retriever and chain mechanisms to maintain conversational history and provide contextually relevant answers.
-   - Uses Chroma vectorstore for document retrieval.
+   
 
 ### 3. **Text-to-Speech (TTS):**
    - Converts text responses into audio using Google TTS (`gTTS`).
